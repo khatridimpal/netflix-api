@@ -1,3 +1,10 @@
 {
-  "Netflixdata" : []
+  "Netflixdata" : [
+    "Title": "Bholaa Shankar (2023) Hindi Dubbed",
+    "Image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTzQJut3cV4DNT84MEVqSaUpjhC.jpg",
+    "MainCategory": "Movies",
+    "Geans": "Action, Crime, Dual Audio, South Special, Thriller",
+    "FileID": "abcxfgv",
+    "id": 1
+  ]
 }
